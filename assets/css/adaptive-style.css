@@ -1,0 +1,80 @@
+@media (max-width: 1300px) {
+    header{
+        width: 121%;
+        height: 42vh;
+        margin: 0;
+        padding: 0;
+    }
+    .overlay-information{
+        width: 182vh;
+    }
+    .overlay-content{
+        left: -130px;
+    }
+    .reservation-button{
+        margin-left:84vh;
+    }
+    .contacts-page{
+        width: 112%;
+    }
+    .images-page{
+        width: 110%;
+    }
+    .information-bar{
+        width: 113%;
+    }
+    .special-suggestion{
+        width: 112%;
+    }
+
+    .menu-content img{
+        width: 70vh;
+        left: 185px;
+    }
+
+    .contacts{
+        left: 1000px;
+    }
+
+    .contact-forms{
+        width: 800px;
+    }
+    footer{
+        width: 122%;
+        height: 35vh;
+    }
+}
+
+@media (max-width: 1000px) {
+    header{
+        width: 158%;
+        height: 44vh;
+        margin: 0;
+        padding: 0;
+    }
+    nav a{
+        font-size: 5vh;
+        margin-right: 3vh;
+    }
+    .contacts-page{
+        width: 170%;
+    }
+    .images-page{
+        width: 160%;
+    }
+    .overlay-information{
+        width: 182vh;
+    }
+    .overlay-content{
+        width: 150%;
+    }
+    .information-bar{
+        width: 160%;
+    }
+    .special-suggestion{
+        width: 160%;
+    }
+    footer{
+        width: 160%;
+    }
+}
